@@ -1,1 +1,1 @@
-# crispy-potato
+# Lamp project
